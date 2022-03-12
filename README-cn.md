@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 圣树
-## GoGoCode 是什么？飞洒sa a
+## GoGoCode 是
 
 [English version of README](README.md)
 
